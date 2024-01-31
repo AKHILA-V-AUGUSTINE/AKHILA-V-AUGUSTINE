@@ -1,6 +1,6 @@
 <h1 align="center">Hi.. 👋, I'm  Akhila V Augustine</h1>
 <h3 align="center"> MCA graduate from Amal jyothi College Of Engineering,Kottayam.</h3>
-<p align="center"><img align="center" src="src="https://i.pinimg.com/originals/b5/60/f5/b560f54a3552617da0a113f008443add.gif" alt="adam-pw" /></p>
+<p align="center"><img align="center" src="https://i.pinimg.com/originals/b5/60/f5/b560f54a3552617da0a113f008443add.gif" alt="adam-pw" /></p>
 
 
 <br>
